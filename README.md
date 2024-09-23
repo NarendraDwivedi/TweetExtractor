@@ -66,7 +66,7 @@
 ## Installation
 
 ### Download the Application
-1. Download the latest release of **TweetExtractor** from the [Releases page](https://github.com/yourusername/TweetExtractor/releases). The release binary is protected by obfuscation for security.
+1. Download the latest release of **TweetExtractor** from the [Releases page](https://github.com/NarendraDwivedi/TweetExtractor/releases). The release binary is protected by obfuscation for security.
 
 ### Install the .NET Framework
 2. Ensure that .NET Framework 4.7.2 or above is installed. Download it from the official [Microsoft website](https://dotnet.microsoft.com/download/dotnet-framework).
@@ -78,7 +78,7 @@
 - Enter the profile or tweet URL to extract the desired details.
 
 ## Screenshots
-![TweetExtractor Screenshot](path/to/screenshot.png)  
+![TweetExtractor Screenshot](https://github.com/NarendraDwivedi/TweetExtractor/blob/main/tweetextractor.JPG)  
 *Example of TweetExtractor in action.*
 
 ## Contact
