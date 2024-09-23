@@ -57,6 +57,7 @@
   - **Action Buttons:**
     - Download / Open Folder: Opens the downloaded file or initiates a download with progress details (size, speed, progress bar).
     - Pause/Resume features for active downloads.
+    - Shows downlaod speed, total file size downloaded of actual file size and progress bar.
     - Remove: Removes the file detail from the download list (does not delete the downloaded file).
     
   - Users can batch download multiple files by clicking on multiple download buttons.
