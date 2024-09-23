@@ -22,12 +22,13 @@
   - Pinned Tweet (if available)
   - Profile Picture (if available)
   - Cover Image (if available)
-  - Verification Tick (Blue, Grey, Gold)
-    - Click on any tick to view verification details and history.
-  - Affiliated Accounts: Displays logos and details of associated accounts.
+ - Verification Tick (Blue, Grey, Gold)
+    - Click on any tick to find out why it's verified and when the account was verified.
+  - Affiliated Accounts: Shows logo and details of affiliated accounts.
 
 - **Image Downloads:**
-  - High-quality downloads for Profile and Cover Images.
+  - Click on the Profile Picture to download in high quality.
+  - Click on the Cover Image to download in high quality.
 
 ### Tweet Extraction
 - **Extracted Information:**
@@ -45,17 +46,18 @@
     - Click on tick for verification details.
   - Affiliated Logo (if available) with clickable user ID for further details.
 
-- **Media Downloads:**
-  - Batch download options for images and videos associated with tweets.
+ **Media Downloads:**
+  - Total Image Count available in that tweet (batch download available).
+  - Total Video Count (if available) with an option to add to download.
 
 ### Download Features
 - **Download List:**
-  - Displays: Username, Type (e.g., video), Quality (e.g., 1280x720), Size (in MB), Date (Added), Filename (double-click to open folder), and Link (double-click to play).
+   - Columns: Username, Type (e.g., video), Quality (e.g., 1280x720), Size (File Size in MB), Date (Added to Download List), Filename (double-click to open download folder), Link (double-click to open in VLC or Windows Media Player).
   
   - **Action Buttons:**
-    - **Download / Open Folder:** Initiates download with progress tracking or opens downloaded file.
-    - **Pause/Resume:** Manage active downloads easily.
-    - **Remove:** Clears from the download list without deleting the actual file.
+    - Download / Open Folder: Opens the downloaded file or initiates a download with progress details (size, speed, progress bar).
+    - Pause/Resume features for active downloads.
+    - Remove: Removes the file detail from the download list (does not delete the downloaded file).
     
   - Users can batch download multiple files by clicking on multiple download buttons.
 
